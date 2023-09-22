@@ -1,0 +1,1 @@
+# outerbase-plugin-richtext-editor
